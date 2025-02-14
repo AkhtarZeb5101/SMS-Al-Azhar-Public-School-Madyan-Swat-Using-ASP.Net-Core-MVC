@@ -1,0 +1,87 @@
+﻿@model IEnumerable<DatabaseAccess.StudentPromotTable>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<p>
+    @Html.ActionLink("Promote Student", "Create", null, new { @class = "btn btn-success" })
+</p>
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">All Student</h6>
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-striped table-condensed table-hover" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>
+                            Promote ID
+                        </th>
+                        <th>
+                            Student
+                        </th>
+                        <th>
+                            Promote Date
+                        </th>
+                        <th>
+                            Promotion Fee
+                        </th>
+                        <th>
+                           Promotion Status
+                        </th>
+                        <th>
+                            Fee Status
+                        </th>
+                        <th>
+                           Promote Class
+                        </th>
+                        <th>
+                            Class Section
+                        </th>
+
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.StudentPromotID)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.StudentTable.Name)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.PromoteDate)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.AnnualFee)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.IsActive)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.IsSubmit)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ClassTable.Name)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.SectionTable.SectionName)
+                        </td>
+
+                        <td class="btn-group">
+                            @Html.ActionLink("Edit", "Edit", new { id = item.StudentPromotID }, new { @class = "btn btn-primary" })
+                            @Html.ActionLink("Details", "Details", new { id = item.StudentPromotID }, new { @class = "btn btn-info" })
+                        </td>
+                    </tr>
+                    }
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

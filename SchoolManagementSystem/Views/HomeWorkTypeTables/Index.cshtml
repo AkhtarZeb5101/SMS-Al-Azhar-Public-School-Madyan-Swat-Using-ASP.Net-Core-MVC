@@ -1,0 +1,36 @@
+﻿@model IEnumerable<DatabaseAccess.HomeWorkTypeTable>
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary" style="float:left; align-content:center;">Home Work Types</h6>
+        @Html.ActionLink("New Type", "Create",null, new { @class="btn btn-success" , style="float:right;"})
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-striped table-condensed table-hover" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.HomeWorkTypeName)
+                        </th>
+                        <th>Action's</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.HomeWorkTypeName)
+                            </td>
+                            <td>
+                                @Html.ActionLink("Update", "Edit", new { id = item.HomeWorkTypeID },new { @class="btn btn-primary"})
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+

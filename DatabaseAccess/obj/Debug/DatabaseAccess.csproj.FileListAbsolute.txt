@@ -1,0 +1,115 @@
+D:\FYP School Management System\Application\DatabaseAccess\bin\Debug\DatabaseAccess.dll.config
+D:\FYP School Management System\Application\DatabaseAccess\bin\Debug\DatabaseAccess.dll
+D:\FYP School Management System\Application\DatabaseAccess\bin\Debug\DatabaseAccess.pdb
+D:\FYP School Management System\Application\DatabaseAccess\bin\Debug\EntityFramework.dll
+D:\FYP School Management System\Application\DatabaseAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\FYP School Management System\Application\DatabaseAccess\bin\Debug\EntityFramework.xml
+D:\FYP School Management System\Application\DatabaseAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\FYP School Management System\Application\DatabaseAccess\obj\Debug\DatabaseAccess.csproj.CoreCompileInputs.cache
+D:\FYP School Management System\Application\DatabaseAccess\obj\Debug\DatabaseAccess.csproj.CopyComplete
+D:\FYP School Management System\Application\DatabaseAccess\obj\Debug\DatabaseAccess.dll
+D:\FYP School Management System\Application\DatabaseAccess\obj\Debug\DatabaseAccess.pdb
+D:\FYP School Management System\Application\DatabaseAccess\obj\Debug\DatabaseAccess.csprojAssemblyReference.cache
+C:\Users\WEB COMPUTER\Desktop\Application\DatabaseAccess\bin\Debug\DatabaseAccess.dll.config
+C:\Users\WEB COMPUTER\Desktop\Application\DatabaseAccess\bin\Debug\DatabaseAccess.dll
+C:\Users\WEB COMPUTER\Desktop\Application\DatabaseAccess\bin\Debug\DatabaseAccess.pdb
+C:\Users\WEB COMPUTER\Desktop\Application\DatabaseAccess\bin\Debug\EntityFramework.dll
+C:\Users\WEB COMPUTER\Desktop\Application\DatabaseAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\WEB COMPUTER\Desktop\Application\DatabaseAccess\bin\Debug\EntityFramework.xml
+C:\Users\WEB COMPUTER\Desktop\Application\DatabaseAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\WEB COMPUTER\Desktop\Application\DatabaseAccess\obj\Debug\DatabaseAccess.csprojResolveAssemblyReference.cache
+C:\Users\WEB COMPUTER\Desktop\Application\DatabaseAccess\obj\Debug\DatabaseAccess.dll
+C:\Users\WEB COMPUTER\Desktop\Application\DatabaseAccess\obj\Debug\DatabaseAccess.pdb
+D:\FYP School Management System\Hamid Application\Application\DatabaseAccess\bin\Debug\DatabaseAccess.dll.config
+D:\FYP School Management System\Hamid Application\Application\DatabaseAccess\bin\Debug\DatabaseAccess.dll
+D:\FYP School Management System\Hamid Application\Application\DatabaseAccess\bin\Debug\DatabaseAccess.pdb
+D:\FYP School Management System\Hamid Application\Application\DatabaseAccess\bin\Debug\EntityFramework.dll
+D:\FYP School Management System\Hamid Application\Application\DatabaseAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\FYP School Management System\Hamid Application\Application\DatabaseAccess\bin\Debug\EntityFramework.xml
+D:\FYP School Management System\Hamid Application\Application\DatabaseAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\FYP School Management System\Hamid Application\Application\DatabaseAccess\obj\Debug\DatabaseAccess.csprojAssemblyReference.cache
+D:\FYP School Management System\Hamid Application\Application\DatabaseAccess\obj\Debug\DatabaseAccess.csproj.CoreCompileInputs.cache
+D:\FYP School Management System\Hamid Application\Application\DatabaseAccess\obj\Debug\DatabaseAccess.csproj.CopyComplete
+D:\FYP School Management System\Hamid Application\Application\DatabaseAccess\obj\Debug\DatabaseAccess.dll
+D:\FYP School Management System\Hamid Application\Application\DatabaseAccess\obj\Debug\DatabaseAccess.pdb
+C:\FYP School Management System11.6\Application\DatabaseAccess\bin\Debug\DatabaseAccess.dll.config
+C:\FYP School Management System11.6\Application\DatabaseAccess\bin\Debug\DatabaseAccess.dll
+C:\FYP School Management System11.6\Application\DatabaseAccess\bin\Debug\DatabaseAccess.pdb
+C:\FYP School Management System11.6\Application\DatabaseAccess\bin\Debug\EntityFramework.dll
+C:\FYP School Management System11.6\Application\DatabaseAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\FYP School Management System11.6\Application\DatabaseAccess\bin\Debug\EntityFramework.xml
+C:\FYP School Management System11.6\Application\DatabaseAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\FYP School Management System11.6\Application\DatabaseAccess\obj\Debug\DatabaseAccess.csprojResolveAssemblyReference.cache
+C:\FYP School Management System11.6\Application\DatabaseAccess\obj\Debug\DatabaseAccess.dll
+C:\FYP School Management System11.6\Application\DatabaseAccess\obj\Debug\DatabaseAccess.pdb
+D:\FYP School Management System\Hamed Final\FYP School Management System\Application\DatabaseAccess\bin\Debug\DatabaseAccess.dll.config
+D:\FYP School Management System\Hamed Final\FYP School Management System\Application\DatabaseAccess\bin\Debug\DatabaseAccess.dll
+D:\FYP School Management System\Hamed Final\FYP School Management System\Application\DatabaseAccess\bin\Debug\DatabaseAccess.pdb
+D:\FYP School Management System\Hamed Final\FYP School Management System\Application\DatabaseAccess\bin\Debug\EntityFramework.dll
+D:\FYP School Management System\Hamed Final\FYP School Management System\Application\DatabaseAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\FYP School Management System\Hamed Final\FYP School Management System\Application\DatabaseAccess\bin\Debug\EntityFramework.xml
+D:\FYP School Management System\Hamed Final\FYP School Management System\Application\DatabaseAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\FYP School Management System\Hamed Final\FYP School Management System\Application\DatabaseAccess\obj\Debug\DatabaseAccess.csproj.CoreCompileInputs.cache
+D:\FYP School Management System\Hamed Final\FYP School Management System\Application\DatabaseAccess\obj\Debug\DatabaseAccess.csproj.CopyComplete
+D:\FYP School Management System\Hamed Final\FYP School Management System\Application\DatabaseAccess\obj\Debug\DatabaseAccess.dll
+D:\FYP School Management System\Hamed Final\FYP School Management System\Application\DatabaseAccess\obj\Debug\DatabaseAccess.pdb
+D:\Source Code + Database + Thesis\Source Code + Database + Thesis\FYP School Management System\Application\DatabaseAccess\bin\Debug\DatabaseAccess.dll.config
+D:\Source Code + Database + Thesis\Source Code + Database + Thesis\FYP School Management System\Application\DatabaseAccess\bin\Debug\DatabaseAccess.dll
+D:\Source Code + Database + Thesis\Source Code + Database + Thesis\FYP School Management System\Application\DatabaseAccess\bin\Debug\DatabaseAccess.pdb
+D:\Source Code + Database + Thesis\Source Code + Database + Thesis\FYP School Management System\Application\DatabaseAccess\bin\Debug\EntityFramework.dll
+D:\Source Code + Database + Thesis\Source Code + Database + Thesis\FYP School Management System\Application\DatabaseAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Source Code + Database + Thesis\Source Code + Database + Thesis\FYP School Management System\Application\DatabaseAccess\bin\Debug\EntityFramework.xml
+D:\Source Code + Database + Thesis\Source Code + Database + Thesis\FYP School Management System\Application\DatabaseAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Source Code + Database + Thesis\Source Code + Database + Thesis\FYP School Management System\Application\DatabaseAccess\obj\Debug\DatabaseAccess.csproj.AssemblyReference.cache
+D:\Source Code + Database + Thesis\Source Code + Database + Thesis\FYP School Management System\Application\DatabaseAccess\obj\Debug\DatabaseAccess.csproj.CoreCompileInputs.cache
+D:\Source Code + Database + Thesis\Source Code + Database + Thesis\FYP School Management System\Application\DatabaseAccess\obj\Debug\Database.3C889C45.Up2Date
+D:\Source Code + Database + Thesis\Source Code + Database + Thesis\FYP School Management System\Application\DatabaseAccess\obj\Debug\DatabaseAccess.dll
+D:\Source Code + Database + Thesis\Source Code + Database + Thesis\FYP School Management System\Application\DatabaseAccess\obj\Debug\DatabaseAccess.pdb
+D:\School Managment System Project\Source Code + Database + Thesis\FYP School Management System\Application\DatabaseAccess\bin\Debug\DatabaseAccess.dll.config
+D:\School Managment System Project\Source Code + Database + Thesis\FYP School Management System\Application\DatabaseAccess\bin\Debug\DatabaseAccess.dll
+D:\School Managment System Project\Source Code + Database + Thesis\FYP School Management System\Application\DatabaseAccess\bin\Debug\DatabaseAccess.pdb
+D:\School Managment System Project\Source Code + Database + Thesis\FYP School Management System\Application\DatabaseAccess\bin\Debug\EntityFramework.dll
+D:\School Managment System Project\Source Code + Database + Thesis\FYP School Management System\Application\DatabaseAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\School Managment System Project\Source Code + Database + Thesis\FYP School Management System\Application\DatabaseAccess\bin\Debug\EntityFramework.xml
+D:\School Managment System Project\Source Code + Database + Thesis\FYP School Management System\Application\DatabaseAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\School Managment System Project\Source Code + Database + Thesis\FYP School Management System\Application\DatabaseAccess\obj\Debug\DatabaseAccess.csproj.AssemblyReference.cache
+D:\School Managment System Project\Source Code + Database + Thesis\FYP School Management System\Application\DatabaseAccess\obj\Debug\DatabaseAccess.csproj.CoreCompileInputs.cache
+D:\School Managment System Project\Source Code + Database + Thesis\FYP School Management System\Application\DatabaseAccess\obj\Debug\Database.3C889C45.Up2Date
+D:\School Managment System Project\Source Code + Database + Thesis\FYP School Management System\Application\DatabaseAccess\obj\Debug\DatabaseAccess.dll
+D:\School Managment System Project\Source Code + Database + Thesis\FYP School Management System\Application\DatabaseAccess\obj\Debug\DatabaseAccess.pdb
+D:\School-Management-System-Project--Net-MVC-\DatabaseAccess\bin\Debug\DatabaseAccess.dll.config
+D:\School-Management-System-Project--Net-MVC-\DatabaseAccess\bin\Debug\DatabaseAccess.dll
+D:\School-Management-System-Project--Net-MVC-\DatabaseAccess\bin\Debug\DatabaseAccess.pdb
+D:\School-Management-System-Project--Net-MVC-\DatabaseAccess\bin\Debug\EntityFramework.dll
+D:\School-Management-System-Project--Net-MVC-\DatabaseAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\School-Management-System-Project--Net-MVC-\DatabaseAccess\bin\Debug\EntityFramework.xml
+D:\School-Management-System-Project--Net-MVC-\DatabaseAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\School-Management-System-Project--Net-MVC-\DatabaseAccess\obj\Debug\DatabaseAccess.csproj.AssemblyReference.cache
+D:\School-Management-System-Project--Net-MVC-\DatabaseAccess\obj\Debug\DatabaseAccess.csproj.CoreCompileInputs.cache
+D:\School-Management-System-Project--Net-MVC-\DatabaseAccess\obj\Debug\Database.3C889C45.Up2Date
+D:\School-Management-System-Project--Net-MVC-\DatabaseAccess\obj\Debug\DatabaseAccess.dll
+D:\School-Management-System-Project--Net-MVC-\DatabaseAccess\obj\Debug\DatabaseAccess.pdb
+C:\Users\BaCha\Videos\School Mgmt\School-Management-System-Project--Net-MVC-\DatabaseAccess\bin\Debug\DatabaseAccess.dll.config
+C:\Users\BaCha\Videos\School Mgmt\School-Management-System-Project--Net-MVC-\DatabaseAccess\bin\Debug\DatabaseAccess.dll
+C:\Users\BaCha\Videos\School Mgmt\School-Management-System-Project--Net-MVC-\DatabaseAccess\bin\Debug\DatabaseAccess.pdb
+C:\Users\BaCha\Videos\School Mgmt\School-Management-System-Project--Net-MVC-\DatabaseAccess\bin\Debug\EntityFramework.dll
+C:\Users\BaCha\Videos\School Mgmt\School-Management-System-Project--Net-MVC-\DatabaseAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BaCha\Videos\School Mgmt\School-Management-System-Project--Net-MVC-\DatabaseAccess\bin\Debug\EntityFramework.xml
+C:\Users\BaCha\Videos\School Mgmt\School-Management-System-Project--Net-MVC-\DatabaseAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BaCha\Videos\School Mgmt\School-Management-System-Project--Net-MVC-\DatabaseAccess\obj\Debug\DatabaseAccess.csproj.AssemblyReference.cache
+C:\Users\BaCha\Videos\School Mgmt\School-Management-System-Project--Net-MVC-\DatabaseAccess\obj\Debug\DatabaseAccess.csproj.CoreCompileInputs.cache
+C:\Users\BaCha\Videos\School Mgmt\School-Management-System-Project--Net-MVC-\DatabaseAccess\obj\Debug\Database.3C889C45.Up2Date
+C:\Users\BaCha\Videos\School Mgmt\School-Management-System-Project--Net-MVC-\DatabaseAccess\obj\Debug\DatabaseAccess.dll
+C:\Users\BaCha\Videos\School Mgmt\School-Management-System-Project--Net-MVC-\DatabaseAccess\obj\Debug\DatabaseAccess.pdb
+C:\Users\XeB\Music\SMS (Al-Azhar Public School Madyan Swat) Using ASP.Net Core MVC\DatabaseAccess\bin\Debug\DatabaseAccess.dll.config
+C:\Users\XeB\Music\SMS (Al-Azhar Public School Madyan Swat) Using ASP.Net Core MVC\DatabaseAccess\bin\Debug\DatabaseAccess.dll
+C:\Users\XeB\Music\SMS (Al-Azhar Public School Madyan Swat) Using ASP.Net Core MVC\DatabaseAccess\bin\Debug\DatabaseAccess.pdb
+C:\Users\XeB\Music\SMS (Al-Azhar Public School Madyan Swat) Using ASP.Net Core MVC\DatabaseAccess\bin\Debug\EntityFramework.dll
+C:\Users\XeB\Music\SMS (Al-Azhar Public School Madyan Swat) Using ASP.Net Core MVC\DatabaseAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\XeB\Music\SMS (Al-Azhar Public School Madyan Swat) Using ASP.Net Core MVC\DatabaseAccess\bin\Debug\EntityFramework.xml
+C:\Users\XeB\Music\SMS (Al-Azhar Public School Madyan Swat) Using ASP.Net Core MVC\DatabaseAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\XeB\Music\SMS (Al-Azhar Public School Madyan Swat) Using ASP.Net Core MVC\DatabaseAccess\obj\Debug\DatabaseAccess.csproj.AssemblyReference.cache
+C:\Users\XeB\Music\SMS (Al-Azhar Public School Madyan Swat) Using ASP.Net Core MVC\DatabaseAccess\obj\Debug\DatabaseAccess.csproj.CoreCompileInputs.cache
+C:\Users\XeB\Music\SMS (Al-Azhar Public School Madyan Swat) Using ASP.Net Core MVC\DatabaseAccess\obj\Debug\Database.3C889C45.Up2Date
+C:\Users\XeB\Music\SMS (Al-Azhar Public School Madyan Swat) Using ASP.Net Core MVC\DatabaseAccess\obj\Debug\DatabaseAccess.dll
+C:\Users\XeB\Music\SMS (Al-Azhar Public School Madyan Swat) Using ASP.Net Core MVC\DatabaseAccess\obj\Debug\DatabaseAccess.pdb
